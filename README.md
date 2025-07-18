@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Atharv Kadam!
 
-🎓 I'm a passionate Data Science graduate student at UC Boulder, building impactful projects across Machine Learning, Data Engineering, and Analytics. My goal is to solve real-world problems by blending clean code with deep business insight.
+🎓 I'm a passionate Data Science graduate student at the University of Colorado Boulder, building impactful projects across Machine Learning, Data Engineering, and Analytics. I aim to solve real-world problems by blending clean code with deep business insight.
 
 🔍 I'm especially interested in roles like:
 - **Machine Learning Engineer**
@@ -8,13 +8,15 @@
 - **Data Analyst**
 - **Data Scientist**
 
+---
+
 ## 🔧 Tools & Technologies I Use
 
 **Languages & Frameworks:**  
 `Python`, `SQL`, `R`, `Pandas`, `NumPy`, `Scikit-learn`, `XGBoost`, `LightGBM`, `Statsmodels`, `Matplotlib`, `Seaborn`, `Power BI`, `Excel`, `Tableau`, `Snowflake`, `PySpark`
 
 **Other Skills:**  
-Data Wrangling • Predictive Modeling • A/B Testing • Feature Engineering • ML Pipelines • Web Scraping • API Integration • Clustering • Survival Modeling • Dashboards • Git • Agile
+Data Wrangling • Predictive Modeling • A/B Testing • Feature Engineering • ML Pipelines • Web Scraping • API Integration • Clustering • Survival Modeling • Dashboards • Git • Agile Methodologies
 
 ---
 

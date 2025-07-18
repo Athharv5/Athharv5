@@ -10,13 +10,44 @@
 
 ---
 
-## 🔧 Tools & Technologies I Use
+## 💼 Skills & Tech Stack
 
-**Languages & Frameworks:**  
-`Python`, `SQL`, `R`, `Pandas`, `NumPy`, `Scikit-learn`, `XGBoost`, `LightGBM`, `Statsmodels`, `Matplotlib`, `Seaborn`, `Power BI`, `Excel`, `Tableau`, `Snowflake`, `PySpark`
+### 🧠 Languages & Tools  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-**Other Skills:**  
-Data Wrangling • Predictive Modeling • A/B Testing • Feature Engineering • ML Pipelines • Web Scraping • API Integration • Clustering • Survival Modeling • Dashboards • Git • Agile Methodologies
+---
+
+### 📊 Data Analytics & BI  
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+
+---
+
+### 📚 Libraries & Frameworks  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=data:image/svg+xml;base64,&logoColor=white)  
+![LightGBM](https://img.shields.io/badge/LightGBM-8BC34A?style=for-the-badge&logo=lightgbm&logoColor=white)  
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logoColor=white)  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+
+---
+
+### ☁️ Data Engineering Tools  
+![Snowflake](https://img.shields.io/badge/Snowflake-56B9E9?style=for-the-badge&logo=snowflake&logoColor=white)  
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+
+---
+
+### 🌐 Others  
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)  
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+
 
 ---
 

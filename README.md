@@ -67,8 +67,8 @@ Analyzed anxiety levels using lifestyle, physiological, and behavioral data.
 
 ## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AtharvKadammm&layout=compact&theme=default)  
-![Atharv's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AtharvKadammm&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Athharv5&layout=compact&theme=default)  
+![Atharv's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Athharv5&show_icons=true&theme=default)
 
 ---
 

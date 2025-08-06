@@ -75,6 +75,6 @@ Analyzed anxiety levels using lifestyle, physiological, and behavioral data.
 ## 🌐 Connect with Me
 
 🔗 [LinkedIn](https://www.linkedin.com/in/atharv-kadam/)  
-📂 [GitHub Portfolio](https://github.com/AtharvKadammm)
+📂 [GitHub Portfolio](https://github.com/Athharv5)
 
 Let’s collaborate and build something impactful! 🚀

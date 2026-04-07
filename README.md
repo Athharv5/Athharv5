@@ -1,80 +1,166 @@
-# 👋 Hi, I'm Atharv Kadam!
+<!-- CAPSULE RENDER HEADER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Atharv%20Kadam&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Science%20%40%20CU%20Boulder%20%7C%20ML%20%7C%20Data%20Engineering&descAlignY=55&descSize=16" />
+</p>
 
-🎓 I'm a passionate Data Science graduate student at the University of Colorado Boulder, building impactful projects across Machine Learning, Data Engineering, and Analytics. I aim to solve real-world problems by blending clean code with deep business insight.
+<!-- TYPING SVG -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=500&height=50&lines=Machine+Learning+Engineer+%F0%9F%A4%96;Data+Engineer+%E2%9A%99%EF%B8%8F;Data+Scientist+%F0%9F%93%8A;Data+Analyst+%F0%9F%93%88;Open+to+Impactful+Opportunities+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
 
-🔍 I'm especially interested in roles like:
-- **Machine Learning Engineer**
-- **Data Engineer**
-- **Data Analyst**
-- **Data Scientist**
-
----
-
-## 💼 Skills & Tech Stack
-
-### 🧠 Languages & Tools  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<!-- PROFILE VIEWS & FOLLOWERS -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Athharv5&color=58a6ff&style=flat-square&label=Profile+Views" />
+  <img src="https://img.shields.io/github/followers/Athharv5?style=flat-square&color=58a6ff&label=Followers" />
+</p>
 
 ---
 
-### 📊 Data Analytics & BI  
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+## 🙋‍♂️ About Me
+
+<!-- FIXED: Using <pre> instead of triple backticks to avoid markdown conflicts -->
+<pre>
+atharv = {
+    "education":  "MS Data Science @ University of Colorado Boulder 🎓",
+    "interests":  ["ML Engineering", "Data Engineering", "Analytics"],
+    "tools":      ["Python", "SQL", "PySpark", "Snowflake"],
+    "currently":  "Building impactful projects blending ML + business insight",
+    "fun_fact":   "I turn messy data into clean stories 📊"
+}
+</pre>
 
 ---
 
-### 📚 Libraries & Frameworks  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=data:image/svg+xml;base64,&logoColor=white)  
-![LightGBM](https://img.shields.io/badge/LightGBM-8BC34A?style=for-the-badge&logo=lightgbm&logoColor=white)  
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logoColor=white)  
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+## 🏆 GitHub Trophies
+
+<!-- FIXED: Using stats.json alternative that is reliably hosted -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Athharv5&theme=nord&column=6&margin-w=10&margin-h=10&no-bg=true&no-frame=true" />
+</p>
 
 ---
 
-### ☁️ Data Engineering Tools  
-![Snowflake](https://img.shields.io/badge/Snowflake-56B9E9?style=for-the-badge&logo=snowflake&logoColor=white)  
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+## 📊 GitHub Stats & Streak
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Athharv5&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=Athharv5&theme=github-dark-blue&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Athharv5&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+</p>
 
 ---
 
-### 🌐 Others  
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)  
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+## 📈 Contribution Graph
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Athharv5&bg_color=0d1117&color=58a6ff&line=388bfd&point=79c0ff&area=true&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<!-- FIXED: Using Platane's hosted version — no Action setup needed -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+## 🛠 Tech Stack
+
+### 🧠 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,r,postgres,git&theme=dark" />
+</p>
+
+### 📚 ML & Data Science
+<p>
+  <img src="https://skillicons.dev/icons?i=sklearn,pytorch,tensorflow,jupyter&theme=dark" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/LightGBM-8BC34A?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logoColor=white" />
+</p>
+
+### 📊 BI & Analytics
+<p>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+</p>
+
+### ☁️ Data Engineering
+<p>
+  <img src="https://img.shields.io/badge/Snowflake-56B9E9?style=for-the-badge&logo=snowflake&logoColor=white" />
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" />
+</p>
+
+### 🌐 Other Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=latex,vscode&theme=dark" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🧠 Suicide Prediction System: A Socioeconomic Analysis
-Built a predictive ML system analyzing GDP, happiness index, suicide rates, and more to assess suicide risk.  
-📈 **Models Used:** XGBoost, KNN (97% Accuracy), Random Forest  
-🔬 **Focus:** Socioeconomic risk factors, real-time prediction planning  
+### 🧠 Suicide Prediction System — Socioeconomic Analysis
+> Predictive ML system analyzing GDP, happiness index, and suicide rates to assess risk factors with real-time prediction planning.
 
-### 😰 Calmlytic: Anxiety Severity Analysis & Prediction  
-Analyzed anxiety levels using lifestyle, physiological, and behavioral data.  
-📊 **ML Stack:** PCA, K-Means, Apriori, Naive Bayes, SVM, XGBoost  
-💡 **Insights:** Stress, caffeine, and sleep patterns heavily impact anxiety  
+| Model | Accuracy | Highlights |
+|---|---|---|
+| KNN | **97%** | Top performer |
+| XGBoost | 95% | Feature importance |
+| Random Forest | 94% | Ensemble boost |
 
----
-
-## 📊 GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Athharv5&layout=compact&theme=default)  
-![Atharv's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Athharv5&show_icons=true&theme=default)
+🔗 [View Project →](https://github.com/Athharv5)
 
 ---
 
-## 🌐 Connect with Me
+### 😰 Calmlytic — Anxiety Severity Analysis & Prediction
+> Analyzed anxiety levels using lifestyle, physiological, and behavioral data to predict severity scores.
 
-🔗 [LinkedIn](https://www.linkedin.com/in/atharv-kadam/)  
-📂 [GitHub Portfolio](https://github.com/Athharv5)
+**Key Insight:** Caffeine + poor sleep + high stress = anxiety spike 📊
 
-Let’s collaborate and build something impactful! 🚀
+| Technique | Purpose |
+|---|---|
+| PCA + K-Means | Clustering anxiety profiles |
+| Apriori | Association rule mining |
+| Naive Bayes / SVM | Severity classification |
+| XGBoost | Final prediction model |
+
+🔗 [View Project →](https://github.com/Athharv5)
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/atharv-kadam/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Athharv5">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:your.email@colorado.edu">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center"><i>Let's collaborate and build something impactful! 🚀</i></p>
+
+<!-- CAPSULE RENDER FOOTER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+</p>

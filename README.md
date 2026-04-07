@@ -31,11 +31,14 @@ atharv = {
 
 ---
 
-## 🏆 GitHub Trophies
 
-<!-- FIXED: Using stats.json alternative that is reliably hosted -->
+## 🏅 Achievements
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Athharv5&theme=nord&column=6&margin-w=10&margin-h=10&no-bg=true&no-frame=true" />
+  <img src="https://img.shields.io/badge/Projects%20Built-5%2B-58a6ff?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/ML%20Models%20Trained-10%2B-3fb950?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Accuracy%20Achieved-97%25-f78166?style=for-the-badge&logo=target&logoColor=white" />
+  <img src="https://img.shields.io/badge/Languages%20Used-3%2B-d29922?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 ---

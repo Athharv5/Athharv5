@@ -18,27 +18,26 @@
 
 ## 🙋‍♂️ About Me
 
-<!-- FIXED: Using <pre> instead of triple backticks to avoid markdown conflicts -->
-<pre>
-atharv = {
-    "education":  "MS Data Science @ University of Colorado Boulder 🎓",
-    "interests":  ["ML Engineering", "Data Engineering", "Analytics"],
-    "tools":      ["Python", "SQL", "PySpark", "Snowflake"],
-    "currently":  "Building impactful projects blending ML + business insight",
-    "fun_fact":   "I turn messy data into clean stories 📊"
-}
-</pre>
+<img align="right" alt="coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+🎓 **MS in Data Science**  
+📍 University of Colorado Boulder  
+
+💡 Passionate about building **Machine Learning**, **Data Engineering**, and **Analytics** solutions that solve real-world problems.
 
 ---
 
 
-## 🏅 Achievements
+## 🏆 Achievements
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Projects%20Built-5%2B-58a6ff?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/ML%20Models%20Trained-10%2B-3fb950?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Accuracy%20Achieved-97%25-f78166?style=for-the-badge&logo=target&logoColor=white" />
-  <img src="https://img.shields.io/badge/Languages%20Used-3%2B-d29922?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/🚀_Projects_Built-5+-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🧠_ML_Models-10+-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🎯_Accuracy-97%25-orange?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/💻_Languages-3+-yellow?style=for-the-badge"/>
 </p>
 
 ---
